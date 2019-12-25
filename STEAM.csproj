@@ -13,7 +13,7 @@
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationIcon>steam.ico</ApplicationIcon>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
     <ManifestCertificateThumbprint>3249B6C181144FA6C3686D685F39978772B78327</ManifestCertificateThumbprint>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>

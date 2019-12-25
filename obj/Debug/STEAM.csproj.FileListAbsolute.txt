@@ -4,3 +4,8 @@ F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\bin\
 F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\obj\Debug\STEAM.csprojResolveAssemblyReference.cache
 F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\obj\Debug\STEAM.exe
 F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\obj\Debug\STEAM.pdb
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\bin\Debug\STEAM.exe.config
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\bin\Debug\STEAM.exe
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\bin\Debug\STEAM.pdb
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\obj\Debug\STEAM.exe
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\obj\Debug\STEAM.pdb

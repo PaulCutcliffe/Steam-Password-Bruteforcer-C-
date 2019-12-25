@@ -3,3 +3,8 @@ F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\bin\
 F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\bin\Release\STEAM.pdb
 F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\obj\Release\STEAM.exe
 F:\Programming\C#\CCRacker - kopie\CCRacker\v3\v4 instagram\v5 PSN\v6 STEAM\obj\Release\STEAM.pdb
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\bin\Release\STEAM.exe.config
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\bin\Release\STEAM.exe
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\bin\Release\STEAM.pdb
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\obj\Release\STEAM.exe
+C:\Users\8675\Source\Repos\PaulCutcliffe\Steam-Password-Bruteforcer-C-\obj\Release\STEAM.pdb
